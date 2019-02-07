@@ -4,21 +4,21 @@
 This project imports code for the file lab3_code.py to the SI507_project_1.py
 and uses that code to create a flask app. This flask app can be ran downloading
 the required files and installing the requirments.txt file.
-<br>
+<br><br>
 To run the flask app and install the requirments.txt file, you'll need to create
 a virtual enviornment. In order to do this type in the following commands into
 your command promot/terminal window.
-<br>
+<br><br>
 1: python3 -m venv project1-env
-<br>
-source project1-env/bin/activate for Mac/Linux OR source project1-env/Scripts/activate for Windows
-<br>
-pip install -r requirements.txt
-<br>
-Once you have installed the requirments you can then run your flask app by typing in...
-<br>
-python SI507_project_1.py runserver
-<br>
+<br><br>
+2: source project1-env/bin/activate for Mac/Linux OR source project1-env/Scripts/activate for Windows
+<br><br>
+3: pip install -r requirements.txt
+<br><br>
+4: Once you have installed the requirments you can then run your flask app by typing in...
+<br><br>
+5: python SI507_project_1.py runserver
+<br><br>
 From here you'll be prompted and given a local host address. Copy this into a web
 and you can then freely run the flask app. Addresses you can enter into the local
 host url are as follows.
